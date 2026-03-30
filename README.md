@@ -1,2 +1,2 @@
 # rastreador_iss
-rastreador do International Space Station que gera um mapa com sua localização
+rastreador da International Space Station que gera um mapa com sua localização
